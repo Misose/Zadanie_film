@@ -22,6 +22,6 @@ public class Film {
     private Date Datum_posledneho_pozicania;
     private Date Datum_posledneho_vratenia;
     private boolean Je_pozicany;
-    
+    private int testing;
     
 }
